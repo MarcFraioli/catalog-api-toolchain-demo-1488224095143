@@ -1,6 +1,6 @@
 ## Run on Bluemix
 ---
-* cd to a directory you want the application in. derp derp honk
+* cd to a directory you want the application in. derp blerp honk
 * ```git clone https://github.com/open-toolchain/Microservices_CatalogAPI```
 * cd into the application.
 * ```cf login```
